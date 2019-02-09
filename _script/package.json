@@ -1,0 +1,16 @@
+{
+  "name": "script",
+  "version": "1.0.0",
+  "main": "01_authentication.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "dogapi": "^2.8.3",
+    "dotenv": "^6.2.0"
+  }
+}
